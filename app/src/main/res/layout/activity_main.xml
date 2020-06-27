@@ -55,7 +55,7 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="By Frosty Hacker"
+        android:text="Source Code By Frosty Hacker"
         android:textColor="#ffff0f00"
         android:textSize="14.0sp"
         android:textStyle="bold" />
