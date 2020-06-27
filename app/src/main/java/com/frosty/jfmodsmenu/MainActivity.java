@@ -29,7 +29,7 @@ public class MainActivity extends Activity {
 
     public void OnLogin(View paramView) {
         if(this.PasswordEt.getText() != null && this.UsernameEt.getText() != null) {
-            (new AuthLogin(this)).execute(new String[]{"https://pastebin.com/raw/5VQer5GN"});
+            (new AuthLogin(this)).execute(new String[]{"https://pastebin.com/raw/M3YERjMx"});
         }
     }
 
